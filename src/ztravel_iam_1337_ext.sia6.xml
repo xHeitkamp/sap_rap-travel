@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SIA6" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SIA6>
+    <MAIN_OBJECT>
+     <NAME>ZTRAVEL_IAM_1337_EXT</NAME>
+     <TYPE>SIA6</TYPE>
+     <DESCRIPTION>IAM App</DESCRIPTION>
+     <RESPONSIBLE>CB9980000303</RESPONSIBLE>
+     <MASTER_LANGUAGE>DE</MASTER_LANGUAGE>
+     <MASTER_SYSTEM>TRL</MASTER_SYSTEM>
+     <PACKAGE_REF>
+      <PACKAGE_NAME>ZRBE_DEV</PACKAGE_NAME>
+     </PACKAGE_REF>
+     <ABAP_LANGU_VERSION>5</ABAP_LANGU_VERSION>
+    </MAIN_OBJECT>
+    <APP_ID>ZTRAVEL_IAM_1337_EXT</APP_ID>
+    <APP_TYPE>EXT</APP_TYPE>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <SERVICE>
+     <item>
+      <REL_NAME>ZUI_C_TRAVEL_M_1337_0001</REL_NAME>
+      <REL_TYPE>IWSG</REL_TYPE>
+      <APP_ID>ZTRAVEL_IAM_1337_EXT</APP_ID>
+      <SRVC_NAME>5F3CE9B2ECFBAC156B711DBA762582</SRVC_NAME>
+      <SRVC_TYPE>HT</SRVC_TYPE>
+      <TYPE_TEXT>OData V2 (nicht mehr empfohlen)</TYPE_TEXT>
+     </item>
+    </SERVICE>
+   </SIA6>
+  </asx:values>
+ </asx:abap>
+</abapGit>
